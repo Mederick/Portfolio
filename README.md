@@ -1,6 +1,7 @@
 # Portfolio
 
 
-<p>Bienvenue sur mon portfolio </p>
+<p> <br> Bienvenue sur mon portfolio de fin d'etude du Bts Sio option SLAM </br> </p>
 
-tets
+<p> Vous pouvez y acceder http://portfolio-mederick-plançon.fr </p>
+
